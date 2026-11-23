@@ -1,5 +1,7 @@
 # GATE Pulse AI: Smart PYQ Analyzer and Pareto Prep Strategist
 
+**Live demo:** [https://rajeshsoyeda-hash.github.io/gate-pulse-ai/](https://rajeshsoyeda-hash.github.io/gate-pulse-ai/)
+
 A single-page web app for GATE CSE aspirants. Upload previous year question (PYQ) PDFs and it finds which topics give the most marks for the least study (80/20), which questions repeat across years, and how to study each topic.
 
 Everything runs in your browser. No server, no sign-up, and your PDFs are never uploaded.
